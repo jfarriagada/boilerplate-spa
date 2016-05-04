@@ -1,0 +1,9 @@
+REDUX
+
+Store:
+- se encarga de ejecutar las acciones
+
+las acciones modifican un estado por medio de los reducers
+- react-thunk para usar promises
+- react-router-redux para SPA
+- axios para manejar request asincronos
